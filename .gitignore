@@ -1,0 +1,13 @@
+# Carpeta de entorno virtual
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de entorno local
+.env
+
+# Streamlit archivos locales (opcional, si no quieres subir tu config local)
+.streamlit/secrets.toml
